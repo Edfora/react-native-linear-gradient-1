@@ -16,35 +16,35 @@
   ],
   "author": {
     "name": "Brent Vatne",
-    "email": "brentvatne@gmail.com",
-    "url": "https://github.com/brentvatne"
+    "email": "mobileapp@mypat.in",
+    "url": "https://github.com/Edfora"
   },
   "license": "MIT",
   "contributors": [
     {
       "name": "Nick Hudkins",
-      "email": "nick@nickhudkins.com",
-      "url": "https://github.com/nickhudkins"
+      "email": "mobileapp@mypat.in",
+      "url": "https://github.com/Edfor"
     },
     {
       "name": "Gant Laborde",
-      "email": "gant@infinite.red",
-      "url": "https://github.com/gantman"
+      "email": "mobileapp@mypat.in",
+      "url": "https://github.com/Edfor"
     },
     {
       "name": "Dmitry Gladkov",
-      "email": "dmitry.gladkov@gmail.com",
-      "url": "https://github.com/dgladkov"
+      "email": "mobileapp@mypat.in",
+      "url": "https://github.com/Edfor"
     },
     {
       "name": "Radek Pietruszewski",
-      "email": "radexpl@gmail.com",
-      "url": "https://github.com/radex"
+      "email": "mobileapp@mypat.in",
+      "url": "https://github.com/Edfor"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rohitgarg2016/react-native-linear-gradient-1.git"
+    "url": "https://github.com/Edfora/react-native-linear-gradient-1"
   },
   "dependencies": {},
   "peerDependencies": {
