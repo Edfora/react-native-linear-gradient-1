@@ -1,4 +1,4 @@
-declare module 'react-native-linear-gradient' {
+declare module 'react-native-linear-gradient-1' {
   import * as React from 'react';
   import * as ReactNative from 'react-native';
 
